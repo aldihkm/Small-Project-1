@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ckb_10_persen</name>
+   <tag></tag>
+   <elementGuidId>27fd8ba2-0216-4c46-b1a5-8bb1b3de8160</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='input-row']/div[2]//input[@name='promo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='input-row']/div[2]//input[@name='promo']</value>
+   </webElementProperties>
+</WebElementEntity>

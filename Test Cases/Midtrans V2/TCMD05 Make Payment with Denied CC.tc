@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCMD05 Make Payment with Denied CC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6f44684-5c61-4c17-a06e-59770e3cb9e2</testCaseGuid>
+</TestCaseEntity>

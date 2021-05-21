@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM12_Verify_POSCode_is_Required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f309755-1a89-4247-9c28-6a613ad55e0b</testCaseGuid>
+</TestCaseEntity>

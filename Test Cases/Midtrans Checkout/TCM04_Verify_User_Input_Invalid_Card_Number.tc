@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM04_Verify_User_Input_Invalid_Card_Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64afcd72-7eca-465b-95f0-1de52212c503</testCaseGuid>
+</TestCaseEntity>

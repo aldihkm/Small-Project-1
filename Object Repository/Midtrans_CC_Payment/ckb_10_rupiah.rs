@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ckb_10_rupiah</name>
+   <tag></tag>
+   <elementGuidId>042e34a8-ee40-468c-86aa-89143f31ab0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='input-row']/div[1]//input[@name='promo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='input-row']/div[1]//input[@name='promo']</value>
+   </webElementProperties>
+</WebElementEntity>

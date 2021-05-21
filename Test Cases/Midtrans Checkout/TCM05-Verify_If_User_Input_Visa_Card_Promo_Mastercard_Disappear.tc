@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM05-Verify_If_User_Input_Visa_Card_Promo_Mastercard_Disappear</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0cd5337-ce51-46e1-871b-6a2796f462a7</testCaseGuid>
+</TestCaseEntity>

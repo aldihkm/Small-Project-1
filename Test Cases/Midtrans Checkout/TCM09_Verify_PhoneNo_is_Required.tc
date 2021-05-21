@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM09_Verify_PhoneNo_is_Required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5c47c07-3455-40d1-a815-df58026193a2</testCaseGuid>
+</TestCaseEntity>

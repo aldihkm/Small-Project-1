@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM03_Verify_Email_is_Required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9256171-727a-427c-af4a-212f9f0371e4</testCaseGuid>
+</TestCaseEntity>

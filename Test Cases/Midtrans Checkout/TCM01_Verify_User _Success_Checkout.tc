@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM01_Verify_User _Success_Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7124a99-b6dd-46e5-bc3d-7b1b2e9e77e4</testCaseGuid>
+</TestCaseEntity>

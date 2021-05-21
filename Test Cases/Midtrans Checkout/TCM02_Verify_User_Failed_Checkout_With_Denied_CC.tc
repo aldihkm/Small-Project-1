@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM02_Verify_User_Failed_Checkout_With_Denied_CC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b557f2cb-9ffb-4f60-90cc-f50de5e3fe98</testCaseGuid>
+</TestCaseEntity>

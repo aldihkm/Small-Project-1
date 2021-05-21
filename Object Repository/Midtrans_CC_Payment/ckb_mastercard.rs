@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ckb_mastercard</name>
+   <tag></tag>
+   <elementGuidId>4e3819c9-98ca-4c31-b2aa-bdcfd6d3962f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='input-row']/div[3]//input[@name='promo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='input-row']/div[3]//input[@name='promo']</value>
+   </webElementProperties>
+</WebElementEntity>

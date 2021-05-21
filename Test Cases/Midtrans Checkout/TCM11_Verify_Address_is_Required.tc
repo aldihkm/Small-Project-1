@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCM11_Verify_Address_is_Required</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e539d184-2b0e-4f07-b3e5-871acd38c84e</testCaseGuid>
+</TestCaseEntity>
